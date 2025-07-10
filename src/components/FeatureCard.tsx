@@ -1,12 +1,13 @@
 import { twMerge } from "tailwind-merge";
 
 export default function FeatureCard(props: {
-    title: String;
-    description: String;
+    title: string;             // ✅ fixed: primitive type
+    description: string;       // ✅ fixed: primitive type
     children?: React.ReactNode;
-    className?: String;
+    className?: string;        // ✅ fixed: primitive type
 }) {
-    const {title, description, children, className} = props
+    const { title, description, children, className } = props;
+
     return (
         <div className={twMerge("bg-neutral-900 border border-white/15 p-6 rounded-3xl", className)}>
             <div className="aspect-video">{children}</div>
