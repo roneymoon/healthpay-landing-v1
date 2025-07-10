@@ -34,7 +34,7 @@ export default function Faqs() {
                 </div>
 
                 <h2 className="text-6xl font-medium mt-6 text-center max-w-xl mx-auto">
-                    Questions? We've got{" "}
+                    Questions? We got{" "}
                     <span className="bg-gradient-to-r from-[#0079d0] to-[#8bdbf6] bg-clip-text text-transparent">answers</span>
                 </h2>
                 <p className="text-white/50 mt-4 text-lg text-center">Get answers to common questions about HealthPay and our services</p>

@@ -29,7 +29,7 @@ export default function Features() {
                     <Tag>features</Tag>
                 </div>
                 <h2 className="text-3xl md:text-4xl lg:text-6xl font-medium text-center mt-6">
-                    India's first AI intergrated {"  "}
+                    India&rsquo;s first AI intergrated {"  "}
                     <span className="bg-gradient-to-r from-[#0079d0] to-[#8bdbf6] bg-clip-text text-transparent">
                         RCM solution
                     </span>
