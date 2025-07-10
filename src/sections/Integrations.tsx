@@ -1,5 +1,4 @@
 import Tag from "@/components/Tag";
-import Image from "next/image";
 
 
 import ABHA from "@/assets/images/ABHA.png"
