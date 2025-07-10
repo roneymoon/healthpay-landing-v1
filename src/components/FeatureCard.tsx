@@ -4,7 +4,7 @@ export default function FeatureCard(props: {
     title: String;
     description: String;
     children?: React.ReactNode;
-    className?: string;
+    className?: String;
 }) {
     const {title, description, children, className} = props
     return (
