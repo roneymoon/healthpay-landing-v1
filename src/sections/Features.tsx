@@ -1,19 +1,12 @@
 import Tag from "@/components/Tag";
 import FeatureCard from "@/components/FeatureCard";
-import avatar1 from "@/assets/images/avatar-ashwin-santiago.jpg";
-import avatar3 from "@/assets/images/avatar-florence-shaw.jpg";
-import avatar2 from "@/assets/images/avatar-lula-meyers.jpg";
 
 import Image from "next/image";
-import Avatar from "@/components/Avatar";
-import Key from "@/components/Key";
 
-import data_parsing from "@/assets/images/data_parsing.svg"
-import community from "@/assets/images/community.svg"
+
+
 import workflow_team from "@/assets/images/workflow_team.svg"
 import overview_dashboard from "@/assets/images/overview_dashboard.svg"
-import artificial_intelligence from "@/assets/images/artificial_intelligence.svg"
-import ai_algorithm from "@/assets/images/ai_algorithm.svg"
 import claim_validation from "@/assets/images/claim_validation.svg"
 
 const features = [
