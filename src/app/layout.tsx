@@ -36,7 +36,7 @@ export default function RootLayout({
                     Your browser does not support the video tag.
                 </video>
 
-                {/* ✨ Glassmorphism Overlay */}
+                {/* ✨ Glassmorphism Overlay */} 
                 <div className="fixed inset-0 -z-10 backdrop-blur-sm bg-white/10 border-t border-white/10" />
 
                 {/* 🔼 Page Content */}

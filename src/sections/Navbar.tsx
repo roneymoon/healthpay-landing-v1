@@ -136,7 +136,7 @@ export default function Navbar() {
                     </div>
                 </div>
             </section>
-            <div className="pb-[86px] md:pb-[98px] lg:pb-[130px]">
+            <div className="pb-[66px] md:pb-[70px] lg:pb-[80px]">
 
             </div>
         </>
